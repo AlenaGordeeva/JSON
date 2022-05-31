@@ -1,3 +1,7 @@
-Hello World!
-New
-
+{
+"name": "Alena",
+"surname": "Gordeeva",
+"age" 45,
+"pets" 1,
+"salary" 100000
+}
